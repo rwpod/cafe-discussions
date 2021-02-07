@@ -1,4 +1,4 @@
-# [cafe-discussions](https://github.com/rwpod/cafe-discussions/discussions)
+# [RWpod Cafe discussions](https://github.com/rwpod/cafe-discussions/discussions)
 
 Discussion about RWpod cafe topics
 
